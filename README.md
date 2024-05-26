@@ -1,5 +1,5 @@
 <img align="center" width="100%" src="https://github.com/sudhirkumaryd/sudhirkumaryd/blob/main/WhatsApp%20Image%202024-05-26%20at%2023.58.45.jpeg"/>
-<h1 align="center">Hi 👋, I'm Sudhir yadav</h1>
+<h2 align="center">Hi 👋, I'm Sudhir yadav</h2>
 <h3 align="center">A passionate MERN stack developer and Java coder from India</h3>
 
 <img align="right" width="400" src="https://user-images.githubusercontent.com/40719899/205479251-ffba5354-583f-491b-a1ef-ce919083e2b1.gif" alt="Coding gif"/>
